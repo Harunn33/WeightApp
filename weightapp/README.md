@@ -1,4 +1,4 @@
-# getxuse
+# weightapp
 
 A new Flutter project.
 
